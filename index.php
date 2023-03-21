@@ -72,7 +72,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 		</div>
   <!-- header of the page start here -->
-         <header id="header" class="dark-bg" data-scroll-index="0">
+         <header id="header" class="dark-bg farhatone" data-scroll-index="0">
             <div class="container">
                <div class="row">
                   <div class="col-xs-12 col-sm-4">
